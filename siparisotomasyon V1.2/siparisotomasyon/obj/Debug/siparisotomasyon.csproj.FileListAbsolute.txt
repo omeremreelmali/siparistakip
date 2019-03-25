@@ -1,0 +1,104 @@
+C:\Users\redvizor\source\repos\siparisotomasyon\siparisotomasyon\bin\Debug\siparisotomasyon.exe.config
+C:\Users\redvizor\source\repos\siparisotomasyon\siparisotomasyon\bin\Debug\siparisotomasyon.exe
+C:\Users\redvizor\source\repos\siparisotomasyon\siparisotomasyon\bin\Debug\siparisotomasyon.pdb
+C:\Users\redvizor\source\repos\siparisotomasyon\siparisotomasyon\obj\Debug\siparisotomasyon.csprojAssemblyReference.cache
+C:\Users\redvizor\source\repos\siparisotomasyon\siparisotomasyon\obj\Debug\siparisotomasyon.MDIParent1.resources
+C:\Users\redvizor\source\repos\siparisotomasyon\siparisotomasyon\obj\Debug\siparisotomasyon.Properties.Resources.resources
+C:\Users\redvizor\source\repos\siparisotomasyon\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.GenerateResource.cache
+C:\Users\redvizor\source\repos\siparisotomasyon\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\redvizor\source\repos\siparisotomasyon\siparisotomasyon\obj\Debug\siparisotomasyon.exe
+C:\Users\redvizor\source\repos\siparisotomasyon\siparisotomasyon\obj\Debug\siparisotomasyon.pdb
+C:\Users\redvizor\source\repos\siparisotomasyon\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.kayitform.resources
+C:\Users\redvizor\source\repos\siparisotomasyon\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.musteri.resources
+C:\Users\redvizor\source\repos\siparisotomasyon\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.yonetici.resources
+C:\Users\Engincan Veske\Downloads\Compressed\siparisotomasyon V0.4\siparisotomasyon\bin\Debug\siparisotomasyon.exe.config
+C:\Users\Engincan Veske\Downloads\Compressed\siparisotomasyon V0.4\siparisotomasyon\bin\Debug\siparisotomasyon.exe
+C:\Users\Engincan Veske\Downloads\Compressed\siparisotomasyon V0.4\siparisotomasyon\bin\Debug\siparisotomasyon.pdb
+C:\Users\Engincan Veske\Downloads\Compressed\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.csprojAssemblyReference.cache
+C:\Users\Engincan Veske\Downloads\Compressed\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.kayitform.resources
+C:\Users\Engincan Veske\Downloads\Compressed\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.musteri.resources
+C:\Users\Engincan Veske\Downloads\Compressed\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.yonetici.resources
+C:\Users\Engincan Veske\Downloads\Compressed\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.MDIParent1.resources
+C:\Users\Engincan Veske\Downloads\Compressed\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.Properties.Resources.resources
+C:\Users\Engincan Veske\Downloads\Compressed\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.GenerateResource.cache
+C:\Users\Engincan Veske\Downloads\Compressed\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Engincan Veske\Downloads\Compressed\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.exe
+C:\Users\Engincan Veske\Downloads\Compressed\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.pdb
+C:\Users\redvizor\Desktop\siparisotomasyon V0.4\siparisotomasyon V0.4\siparisotomasyon\bin\Debug\siparisotomasyon.exe.config
+C:\Users\redvizor\Desktop\siparisotomasyon V0.4\siparisotomasyon V0.4\siparisotomasyon\bin\Debug\siparisotomasyon.exe
+C:\Users\redvizor\Desktop\siparisotomasyon V0.4\siparisotomasyon V0.4\siparisotomasyon\bin\Debug\siparisotomasyon.pdb
+C:\Users\redvizor\Desktop\siparisotomasyon V0.4\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.csprojAssemblyReference.cache
+C:\Users\redvizor\Desktop\siparisotomasyon V0.4\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.kayitform.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V0.4\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.musteri.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V0.4\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.yonetici.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V0.4\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.MDIParent1.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V0.4\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.Properties.Resources.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V0.4\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.GenerateResource.cache
+C:\Users\redvizor\Desktop\siparisotomasyon V0.4\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\redvizor\Desktop\siparisotomasyon V0.4\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.exe
+C:\Users\redvizor\Desktop\siparisotomasyon V0.4\siparisotomasyon V0.4\siparisotomasyon\obj\Debug\siparisotomasyon.pdb
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V0.8\siparisotomasyon\bin\Debug\siparisotomasyon.exe.config
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V0.8\siparisotomasyon\bin\Debug\siparisotomasyon.exe
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V0.8\siparisotomasyon\bin\Debug\siparisotomasyon.pdb
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V0.8\siparisotomasyon\obj\Debug\siparisotomasyon.csprojAssemblyReference.cache
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V0.8\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.kayitform.resources
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V0.8\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.musteri.resources
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V0.8\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.yonetici.resources
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V0.8\siparisotomasyon\obj\Debug\siparisotomasyon.MDIParent1.resources
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V0.8\siparisotomasyon\obj\Debug\siparisotomasyon.Properties.Resources.resources
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V0.8\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.GenerateResource.cache
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V0.8\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V0.8\siparisotomasyon\obj\Debug\siparisotomasyon.exe
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V0.8\siparisotomasyon\obj\Debug\siparisotomasyon.pdb
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V1.0\siparisotomasyon\bin\Debug\siparisotomasyon.exe.config
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V1.0\siparisotomasyon\bin\Debug\siparisotomasyon.exe
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V1.0\siparisotomasyon\bin\Debug\siparisotomasyon.pdb
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V1.0\siparisotomasyon\obj\Debug\siparisotomasyon.csprojAssemblyReference.cache
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V1.0\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.kayitform.resources
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V1.0\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.musteri.resources
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V1.0\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.yonetici.resources
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V1.0\siparisotomasyon\obj\Debug\siparisotomasyon.MDIParent1.resources
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V1.0\siparisotomasyon\obj\Debug\siparisotomasyon.Properties.Resources.resources
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V1.0\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.GenerateResource.cache
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V1.0\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V1.0\siparisotomasyon\obj\Debug\siparisotomasyon.exe
+C:\Users\redvizor\Desktop\Siparis Ödev\siparisotomasyon V1.0\siparisotomasyon\obj\Debug\siparisotomasyon.pdb
+C:\Users\ihsan\Desktop\siparisotomasyon V1.1\siparisotomasyon\bin\Debug\siparisotomasyon.exe.config
+C:\Users\ihsan\Desktop\siparisotomasyon V1.1\siparisotomasyon\bin\Debug\siparisotomasyon.exe
+C:\Users\ihsan\Desktop\siparisotomasyon V1.1\siparisotomasyon\bin\Debug\siparisotomasyon.pdb
+C:\Users\ihsan\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.csprojAssemblyReference.cache
+C:\Users\ihsan\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.kayitform.resources
+C:\Users\ihsan\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.musteri.resources
+C:\Users\ihsan\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.yonetici.resources
+C:\Users\ihsan\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.MDIParent1.resources
+C:\Users\ihsan\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.Properties.Resources.resources
+C:\Users\ihsan\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.GenerateResource.cache
+C:\Users\ihsan\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ihsan\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.exe
+C:\Users\ihsan\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.pdb
+C:\Users\redvizor\Desktop\siparisotomasyon V1.1\siparisotomasyon\bin\Debug\siparisotomasyon.exe.config
+C:\Users\redvizor\Desktop\siparisotomasyon V1.1\siparisotomasyon\bin\Debug\siparisotomasyon.exe
+C:\Users\redvizor\Desktop\siparisotomasyon V1.1\siparisotomasyon\bin\Debug\siparisotomasyon.pdb
+C:\Users\redvizor\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.csprojAssemblyReference.cache
+C:\Users\redvizor\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.kayitform.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.musteri.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.yonetici.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.MDIParent1.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.Properties.Resources.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.GenerateResource.cache
+C:\Users\redvizor\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\redvizor\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.exe
+C:\Users\redvizor\Desktop\siparisotomasyon V1.1\siparisotomasyon\obj\Debug\siparisotomasyon.pdb
+C:\Users\redvizor\Desktop\siparisotomasyon V1.2\siparisotomasyon\bin\Debug\siparisotomasyon.exe.config
+C:\Users\redvizor\Desktop\siparisotomasyon V1.2\siparisotomasyon\bin\Debug\siparisotomasyon.exe
+C:\Users\redvizor\Desktop\siparisotomasyon V1.2\siparisotomasyon\bin\Debug\siparisotomasyon.pdb
+C:\Users\redvizor\Desktop\siparisotomasyon V1.2\siparisotomasyon\obj\Debug\siparisotomasyon.csprojAssemblyReference.cache
+C:\Users\redvizor\Desktop\siparisotomasyon V1.2\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.kayitform.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V1.2\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.musteri.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V1.2\siparisotomasyon\obj\Debug\siparisotomasyon.Formlar.yonetici.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V1.2\siparisotomasyon\obj\Debug\siparisotomasyon.MDIParent1.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V1.2\siparisotomasyon\obj\Debug\siparisotomasyon.Properties.Resources.resources
+C:\Users\redvizor\Desktop\siparisotomasyon V1.2\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.GenerateResource.cache
+C:\Users\redvizor\Desktop\siparisotomasyon V1.2\siparisotomasyon\obj\Debug\siparisotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\redvizor\Desktop\siparisotomasyon V1.2\siparisotomasyon\obj\Debug\siparisotomasyon.exe
+C:\Users\redvizor\Desktop\siparisotomasyon V1.2\siparisotomasyon\obj\Debug\siparisotomasyon.pdb
